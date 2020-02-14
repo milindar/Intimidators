@@ -17,19 +17,33 @@ This dataset is based on sales of superstore and its size is 2 MB which includes
 
 # Big Data Problems:
 Pradeepkumar
+
 Mapper Input:
+
 Mapper Output:
+
 Reducer Ouput:
+
 Chart
+
 Millindar
+
 Mapper Input:
+
 Mapper Output:
+
 Reducer Ouput:
+
 Chart
+
 Sunil
+
 Mapper Input:
+
 Mapper Output:
+
 Reducer Ouput:
+
 Chart
 
 
