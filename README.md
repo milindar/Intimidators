@@ -23,11 +23,9 @@ Link to Data source: [](https://www.kaggle.com/aksha17/superstore-sales)
 - Millindar Reddy Maligireddy
 - Sunil Mundru
 
-<<<<<<< HEAD
 [https://github.com/pradeepkumartheegala/Intimidators](https://github.com/pradeepkumartheegala/Intimidators)
 [https://github.com/pradeepkumartheegala/Intimidators/issues](https://github.com/pradeepkumartheegala/Intimidators/issues)
-=======
+
 [Repo Link](https://github.com/pradeepkumartheegala/Intimidators)
 [Issue tracker](https://github.com/pradeepkumartheegala/Intimidators/issues)
->>>>>>> 3438cd4f117a299b4760c292383f060930e388ee
->>>>>>> d372bc566ab7b9adef0fc0c14242b3f88c2fbe95
+
