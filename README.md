@@ -1,6 +1,8 @@
 # Intimidators
 Course: 44-517 Big Data
+
 Project number: 7
+
 List of developers:
 - Pradeepkumar Theegala
 - Millindar Reddy Maligireddy
