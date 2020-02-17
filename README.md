@@ -24,17 +24,7 @@ Mapper Output:
 
 Reducer Ouput:
 
-Chart
-
-Millindar
-
-Mapper Input:
-
-Mapper Output:
-
-Reducer Ouput:
-
-Chart
+Chart:
 
 Sunil
 
@@ -44,7 +34,19 @@ Mapper Output:
 
 Reducer Ouput:
 
-Chart
+Chart:
+
+Millindar
+
+Mapper Input:1	CA-2016-152156	8/11/2016	11/11/2016	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-BO-10001798	Furniture	Bookcases	Bush Somerset Collection Bookcase	261.96	2	0	41.9136
+
+Mapper Output:Consumer 261.96
+
+Reducer Ouput:Consumer 261.96
+
+Chart: Bar chart
+
+
 
 
 
