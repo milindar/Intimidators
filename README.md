@@ -18,13 +18,13 @@ This dataset is based on sales of superstore and its size is 2 MB which includes
 # Big Data Problems:
 Pradeepkumar
 
-Mapper Input:
+Mapper Input: 2	CA-2016-152156	8/11/2016	11/11/2016	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-CH-10000454	Furniture	Chairs	Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back	731.94	3	0	219.582
 
-Mapper Output:
+Mapper Output:Furniture 731.94
 
-Reducer Ouput:
+Reducer Ouput:Furniture 731.94
 
-Chart:
+Chart:Bar chart
 
 Sunil
 
