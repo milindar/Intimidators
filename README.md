@@ -39,7 +39,7 @@ Chart:
 
 Millindar Reddy
 
-Count
+Problem: For each segment, find number of sales
 
 Mapper Input:1	CA-2016-152156	8/11/2016	11/11/2016	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-BO-10001798	Furniture	Bookcases	Bush Somerset Collection Bookcase	261.96	2	0	41.9136
 
