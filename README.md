@@ -10,7 +10,8 @@ List of developers:
 # Links
 - Repo: [https://github.com/pradeepkumartheegala/Intimidators](https://github.com/pradeepkumartheegala/Intimidators)
 - Issue tracker: [https://github.com/pradeepkumartheegala/Intimidators/issues](https://github.com/pradeepkumartheegala/Intimidators/issues)
-# Introduction
+# Introduction:
+We are going to use superstore data to find the maximum, minimum and average among the sales based on the category or segment.
 # Data Source:
 This dataset is based on sales of superstore and its size is 2 MB which includes 21 columns and 9994 records. The data in the dataset is Structured data and it is available in excel format. The velocity of the dataset is zero because data is updated every four years. The data is not messy and it is cleaned.
 - Link to Data source: [https://www.kaggle.com/aksha17/superstore-sales](https://www.kaggle.com/aksha17/superstore-sales)
