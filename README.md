@@ -61,7 +61,8 @@ Reducer Ouput:
 | Category        | Minimum no of sales |
 |-----------------|---------------------|
 | Office Supplies | 14.62               |
-Chart: Barchart 
+
+Chart: Bar chart 
 
 Millindar Reddy
 
