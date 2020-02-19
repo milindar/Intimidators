@@ -39,6 +39,7 @@ Mapper Input:
 | 3 | CA-2016-138688 | 12/6/2016 | 16-06-16 | Second Class | DV-13045 | Darrin Van Huff | Corporate | United States | Los Angeles | California | 90036 | West | OFF-LA-10000240 | Office Supplies | Labels | Self-Adhesive Address Labels for Typewriters by Universal | 14.62 | 2 | 0 | 6.8714 |
 |---|----------------|-----------|----------|--------------|----------|-----------------|-----------|---------------|-------------|------------|-------|------|-----------------|-----------------|--------|-----------------------------------------------------------|-------|---|---|--------|
 
+
 Mapper Output:
 Office Supplies 14.62
 
@@ -52,7 +53,10 @@ Millindar Reddy
 
 Problem: For each segment, find number of sales
 
-Mapper Input:1	CA-2016-152156	8/11/2016	11/11/2016	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-BO-10001798	Furniture	Bookcases	Bush Somerset Collection Bookcase	261.96	2	0	41.9136
+Mapper Input:
+| 2 | CA-2016-152156 | 8/11/2016 | 11/11/2016 | Second Class | CG-12520 | Claire Gute | Consumer | United States | Henderson | Kentucky | 42420 | South | FUR-CH-10000454 | Furniture | Chairs | Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back | 731.94 | 3 | 0 | 219.582 |
+|---|----------------|-----------|------------|--------------|----------|-------------|----------|---------------|-----------|----------|-------|-------|-----------------|-----------|--------|-------------------------------------------------------------|--------|---|---|---------|
+
 
 Mapper Output:Consumer 261.96
 
