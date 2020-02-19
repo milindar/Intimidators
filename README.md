@@ -16,6 +16,7 @@ This dataset is based on sales of superstore and its size is 2 MB which includes
 - Link to Data source: [https://www.kaggle.com/aksha17/superstore-sales](https://www.kaggle.com/aksha17/superstore-sales)
 
 # Big Data Problems:
+
 Pradeepkumar
 
 Mapper Input: 2	CA-2016-152156	8/11/2016	11/11/2016	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-CH-10000454	Furniture	Chairs	Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back	731.94	3	0	219.582
@@ -36,13 +37,15 @@ Reducer Ouput:
 
 Chart:
 
-Millindar
+Millindar Reddy
+
+Count
 
 Mapper Input:1	CA-2016-152156	8/11/2016	11/11/2016	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-BO-10001798	Furniture	Bookcases	Bush Somerset Collection Bookcase	261.96	2	0	41.9136
 
 Mapper Output:Consumer 261.96
 
-Reducer Ouput:Consumer 261.96
+Reducer Ouput:Consumer 1
 
 Chart: Bar chart
 
