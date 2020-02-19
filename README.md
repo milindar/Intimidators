@@ -29,6 +29,7 @@ Reducer Ouput:Furniture 731.94
 Chart:Bar chart
 
 Sunil
+
 Problem: For each category, find the minimum number of sales.
 
 Mapper Input:
