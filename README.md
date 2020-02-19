@@ -25,9 +25,17 @@ Mapper Input:
 |---|----------------|-----------|------------|--------------|----------|-------------|----------|---------------|-----------|----------|-------|-------|-----------------|-----------|-----------|-----------------------------------|--------|---|---|---------|
 
 
-Mapper Output:Furniture 731.94
+Mapper Output:
 
-Reducer Ouput:Furniture 731.94
+| Category  | Minimum no of sales |
+|-----------|---------------------|
+| Furniture | 261.96              |
+
+Reducer Ouput:
+
+| Category  | Minimum no of sales |
+|-----------|---------------------|
+| Furniture | 261.96              |
 
 Chart:Bar chart
 
@@ -41,12 +49,14 @@ Mapper Input:
 
 
 Mapper Output:
-Office Supplies 14.62
-
+| Category        | Minimum no of sales |
+|-----------------|---------------------|
+| Office Supplies | 14.62               |
 
 Reducer Ouput:
-Office Supplies 14.62
-
+| Category        | Minimum no of sales |
+|-----------------|---------------------|
+| Office Supplies | 14.62               |
 Chart: Barchart 
 
 Millindar Reddy
@@ -58,9 +68,17 @@ Mapper Input:
 |---|----------------|-----------|------------|--------------|----------|-------------|----------|---------------|-----------|----------|-------|-------|-----------------|-----------|--------|-------------------------------------------------------------|--------|---|---|---------|
 
 
-Mapper Output:Consumer 261.96
+Mapper Output:
 
-Reducer Ouput:Consumer 1
+| Segment  | Count |
+|----------|-------|
+| Consumer | 1     |
+
+Reducer Ouput:
+
+| Segment  | Count |
+|----------|-------|
+| Consumer | 1     |
 
 Chart: Bar chart
 
