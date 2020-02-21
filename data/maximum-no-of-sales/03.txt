@@ -1,0 +1,3 @@
+Furniture	4416.174
+Office Supplies	9892.74
+Technology	22638.48
