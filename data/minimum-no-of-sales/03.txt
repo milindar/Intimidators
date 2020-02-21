@@ -1,0 +1,3 @@
+Furniture	1.892
+Office Supplies	0.444
+Technology	0.99
