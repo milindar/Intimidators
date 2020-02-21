@@ -1,4 +1,4 @@
-s = open("01.txt","r")
+s = open("02.txt","r")
 r = open("final.txt", "w")
 
 thisKey = ""
