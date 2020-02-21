@@ -1,5 +1,5 @@
-s = open("02.txt","r")
-r = open("03.txt", "w")
+s = open("01.txt","r")
+r = open("02.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
@@ -18,7 +18,7 @@ for line in s:
     thisValue = 0.0
   
   # apply the aggregation function
-  thisValue += 1
+  thisValue = max (thisValue,float(amount))
 
 # output the final entry when done
 r.write(thisKey + '\t' + str(thisValue)+'\n')
