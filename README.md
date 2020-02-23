@@ -87,7 +87,7 @@ Reducer Ouput:
 
 Chart: Bar chart
 
- ![count](https://raw.githubusercontent.com/pradeepkumartheegala/Intimidators/master/images/count.png)
+ ![count](https://raw.githubusercontent.com/pradeepkumartheegala/Intimidators/master/images/count_of_sales.png)
 
 
 
