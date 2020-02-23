@@ -42,7 +42,7 @@ Reducer Ouput:
 | Furniture | 261.96              |
 
 Chart:Bar chart
-![Maximum sales]("\images\maximum-sales-category.png")
+![Maximum sales](\images\maximum-sales-category.png)
 
 Sunil
 
