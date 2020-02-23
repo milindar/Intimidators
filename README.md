@@ -87,6 +87,7 @@ Reducer Ouput:
 
 Chart: Bar chart
 
+ ![count](  "count")
 
 
 
