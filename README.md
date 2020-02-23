@@ -87,7 +87,7 @@ Reducer Ouput:
 
 Chart: Bar chart
 
- ![count](  "count")
+ ![count](  "https://raw.githubusercontent.com/pradeepkumartheegala/Intimidators/master/images/count.bmp")
 
 
 
