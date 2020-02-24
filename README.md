@@ -14,6 +14,7 @@ List of developers:
 ## Introduction:
 We are going to use superstore data to find the maximum, minimum and average among the sales based on the category or segment.
 ## Data Source:
+- Data from local: [\data\superstore.csv](https://github.com/pradeepkumartheegala/Intimidators/blob/master/data/superstore.csv)
 - Link to Data source: [https://www.kaggle.com/aksha17/superstore-sales](https://www.kaggle.com/aksha17/superstore-sales)
 
 ## V's of big data
