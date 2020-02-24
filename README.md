@@ -22,9 +22,9 @@ This dataset is based on sales of superstore and its size is 2 MB which includes
 
 ## Big Data Problems:
 
-**Maximum - Pradeepkumar
+**Maximum - Pradeepkumar**
 
-**Problem: For each category, find the maximum number of sales.
+**Problem: For each category, find the maximum number of sales.**
 
 Mapper Input: 
 
@@ -48,9 +48,9 @@ Chart:Bar chart
 
 ![Maximum sales](https://raw.githubusercontent.com/pradeepkumartheegala/Intimidators/master/images/maximum-sales-category.png)
 
-**Minimum - Sunil
+**Minimum - Sunil**
 
-**Problem: For each category, find the minimum number of sales.
+**Problem: For each category, find the minimum number of sales.**
 
 Mapper Input:
 | 3 | CA-2016-138688 | 12/6/2016 | 16-06-16 | Second Class | DV-13045 | Darrin Van Huff | Corporate | United States | Los Angeles | California | 90036 | West | OFF-LA-10000240 | Office Supplies | Labels | Self-Adhesive Address Labels for Typewriters by Universal | 14.62 | 2 | 0 | 6.8714 |
@@ -69,9 +69,9 @@ Reducer Ouput:
 
 Chart: Bar chart 
 
-**Count - Millindar Reddy
+**Count - Millindar Reddy**
 
-**Problem: For each segment, find number of sales
+**Problem: For each segment, find number of sales**
 
 Mapper Input:
 | 2 | CA-2016-152156 | 8/11/2016 | 11/11/2016 | Second Class | CG-12520 | Claire Gute | Consumer | United States | Henderson | Kentucky | 42420 | South | FUR-CH-10000454 | Furniture | Chairs | Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back | 731.94 | 3 | 0 | 219.582 |
