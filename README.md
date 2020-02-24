@@ -107,7 +107,7 @@ Reducer Ouput:
 
 | Segment  | Count |
 |----------|-------|
-| Consumer | 1     |
+| Consumer | 5191  |
 
 Chart: Bar chart
 
