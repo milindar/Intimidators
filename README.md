@@ -20,11 +20,11 @@ In this project, we are going to use superstore data to find the highest sales f
 - Link to Data source: [https://www.kaggle.com/aksha17/superstore-sales](https://www.kaggle.com/aksha17/superstore-sales)
 
 ## V's of big data
-* Volume:<space><space><space>This dataset is based on sales of superstore and its size is 2 MB which includes 21 columns and 9994 records.
-* Variety:  The data in the dataset is Structured data and it is available in excel format.
-* Velcity:  The velocity of the dataset is zero because data is updated every four years.
-* Veracity: The data is not messy and it is cleaned and is trustworthy as the data is obtained from publicly available website.
-* Value:    We can predict highest or lowest number of sales based on Segment/Category/Sub-Category/Country, we can also calculate highest or lowest profits from the dataset and discount on products based on Category.
+* **Volume:**   This dataset is based on sales of superstore and its size is 2 MB which includes 21 columns and 9994 records.
+* **Variety:**  The data in the dataset is Structured data and it is available in excel format.
+* **Velcity:**  The velocity of the dataset is zero because data is updated every four years.
+* **Veracity:** The data is not messy and it is cleaned and is trustworthy as the data is obtained from publicly available website.
+* **Value:**    We can predict highest or lowest number of sales based on Segment/Category/Sub-Category/Country, we can also calculate highest or lowest profits from the dataset and discount on products based on Category.
 
 ## Big Data Problems:
 1. For each category, find the maximum number of sales
