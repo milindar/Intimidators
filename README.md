@@ -12,16 +12,24 @@ List of developers:
 - Repo: [https://github.com/pradeepkumartheegala/Intimidators](https://github.com/pradeepkumartheegala/Intimidators)
 - Issue tracker: [https://github.com/pradeepkumartheegala/Intimidators/issues](https://github.com/pradeepkumartheegala/Intimidators/issues)
 ## Introduction:
-We are going to use superstore data to find the maximum, minimum and average among the sales based on the category or segment.
-## Data Source:
+In this project, we are going to use superstore data to find the highest sales for category, lowest sales for category and counting number of sales for segment. We will use Map Reducer to get the predictions.
+## Data Source description:
+* Used data set is retails dataset of global superstore sales for 4 years and this is in csv format
+* Some of Key attributes are Segment, Country, Category, Sub-Category, Sales, Quantity, Discount and Profit
 - Data from local: [\data\superstore.csv](https://github.com/pradeepkumartheegala/Intimidators/blob/master/data/superstore.csv)
 - Link to Data source: [https://www.kaggle.com/aksha17/superstore-sales](https://www.kaggle.com/aksha17/superstore-sales)
 
 ## V's of big data
-This dataset is based on sales of superstore and its size is 2 MB which includes 21 columns and 9994 records. The data in the dataset is Structured data and it is available in excel format. The velocity of the dataset is zero because data is updated every four years. The data is not messy and it is cleaned.
-
+* Volume:   This dataset is based on sales of superstore and its size is 2 MB which includes 21 columns and 9994 records.
+* Variety:  The data in the dataset is Structured data and it is available in excel format.
+* Velcity:  The velocity of the dataset is zero because data is updated every four years.
+* Veracity: The data is not messy and it is cleaned and is trustworthy as the data is obtained from publicly available website.
+* Value:    We can predict highest or lowest number of sales based on Segment/Category/Sub-Category/Country, we can also calculate highest or lowest profits from the dataset and discount on products based on Category.
 
 ## Big Data Problems:
+1. For each category, find the maximum number of sales
+1. For each category, find the minimum number of sales
+1. For each segment, find the number of sales
 
 **Maximum - Pradeepkumar**
 
