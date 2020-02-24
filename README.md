@@ -82,6 +82,7 @@ Reducer Ouput:
 | Office Supplies | 14.62               |
 
 Chart: Bar chart 
+![minimun no of sales by category](https://raw.githubusercontent.com/pradeepkumartheegala/Intimidators/master/images/minimum-sales-category.jpeg)
 
 **Count - Millindar Reddy**
 
