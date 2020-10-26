@@ -4,9 +4,9 @@ Course: 44-517-02
 Project number: 7
 
 List of developers:
-- Pradeepkumar Theegala - s534742@nwmissouri.edu
 - Millindar Reddy Maligireddy - s534638@nwmissouri.edu
-- Sunil Mundru - s534939@nwmissouri.edu
+- Pradeepkumar Theegala 
+- Sunil Mundru 
 
 ## Links
 - Repo: [https://github.com/pradeepkumartheegala/Intimidators](https://github.com/pradeepkumartheegala/Intimidators)
